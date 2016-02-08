@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DrRob]]></title>
         <description><![CDATA[DrRob]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drrob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 15:14:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 15:15:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drrob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Are we watching the slow death of high stakes testing? Could it be true? Has someone actually listened to logic and reason and started to pull back on mandatory testing? We will have to wait and see, but it feels like we might be moving in (dare I say) a better direction.</p>]]></description>
+            <link>https://thegrid.ai/drrob/8b8d0f0a-9537-4a7a-84d7-0d9ccfd908db/index.html</link>
+            <guid isPermaLink="false">8b8d0f0a-9537-4a7a-84d7-0d9ccfd908db</guid>
+            <pubDate>Mon, 08 Feb 2016 15:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9c8c66b-25bd-41d4-b867-1691b023fc25.jpg">]]></description>
-            <link>undefinedff7304e9-712a-4214-aea5-87c4da5bc027/index.html</link>
+            <link>https://thegrid.ai/drrob/ff7304e9-712a-4214-aea5-87c4da5bc027/index.html</link>
             <guid isPermaLink="false">ff7304e9-712a-4214-aea5-87c4da5bc027</guid>
             <pubDate>Mon, 08 Feb 2016 15:14:37 GMT</pubDate>
         </item>
